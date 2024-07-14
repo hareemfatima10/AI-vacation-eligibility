@@ -20,7 +20,7 @@ Before you begin, ensure you have the following installed and set up:
    cd AI-vacation-eligibility
    ```
 
-2. Optionally, create a Python virtual environment:
+2. Create a Python virtual environment:
    ```
    python -m venv venv
    source venv/bin/activate   # On Windows, use: venv\Scripts\activate
