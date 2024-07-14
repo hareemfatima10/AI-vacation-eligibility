@@ -51,5 +51,4 @@ This command will open the project in another browser window.
 - The current session's userID is fixed for testing purposes but can be changed within the frontend.
 
 ## Screenshots
-![Screenshot 1](screenshots/John_interaction.png)
-![Screenshot 1](screenshots/Alice_interaction.png)
+![John_interaction](screenshots/John_interaction.png)
