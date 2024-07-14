@@ -48,7 +48,9 @@ This command will open the project in another browser window.
 ## Assumptions
 
 - The system has three sample records in the database to demonstrate different scenarios of employee data. Following are the records for John and Alice.
+  
    ID: 1, Name: John Doe, Join Date: January 1, 2023, Probation End Date: April 1, 2023, Probation Status: Not in probation, Remaining Paid Vacation Days: 15, Department ID: 1
+  
    ID: 3, Name: Alice Smith, Join Date: June 20, 2024, Probation End Date: October 20, 2024, Probation Status: In probation, Remaining Paid Vacation Days: 30, Department ID: 2
 
 - The system assumes that the User ID is within the frontend of the system therefore, the current session's userID is set inside the app.py file (line 60) for testing purposes. To test for other employees, change the User ID to that of the employee
