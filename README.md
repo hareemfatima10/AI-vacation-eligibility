@@ -51,7 +51,11 @@ This command will open the project in another browser window.
 - The current session's userID is fixed for testing purposes but can be changed within the frontend.
 
 ## Screenshots
-###John's Interaction
-![John's Interaction](https://github.com/hareemfatima10/AI-vacation-eligibility/raw/main/screenshots/John_interaction.PNG)
-###Alice's Interaction
-![Alice's Interaction](https://github.com/hareemfatima10/AI-vacation-eligibility/raw/main/screenshots/Alice_interaction.PNG)
+
+### John's Interaction
+
+<img src="https://github.com/hareemfatima10/AI-vacation-eligibility/raw/main/screenshots/John_interaction.PNG" alt="John's Interaction" width="400" />
+
+### Alice's Interaction
+
+<img src="https://github.com/hareemfatima10/AI-vacation-eligibility/raw/main/screenshots/Alice_interaction.PNG" alt="Alice's Interaction" width="400" />
