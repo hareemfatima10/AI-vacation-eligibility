@@ -52,3 +52,4 @@ This command will open the project in another browser window.
 
 ## Screenshots
 ![John's Interaction](https://github.com/hareemfatima10/AI-vacation-eligibility/raw/main/screenshots/John_interaction.PNG)
+![Alice's Interaction](https://github.com/hareemfatima10/AI-vacation-eligibility/raw/main/screenshots/Alice_interaction.PNG)
